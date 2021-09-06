@@ -19,8 +19,11 @@ $ pip install git+https://github.com/aida-ugent/GraB.git
 **Note:** GraB code has been extensively tested and is stable under Python 3.6.9, thus this is the recommendend environment.
 
 data folder:
+
     data.csv: graph links
+
     roles.csv: roles with start id, end id and node type in each row. It is used for the block prior
+
     types.csv: roles with start id, end id and node type in each row. It is not used for the block prior [optional]
 
 for emd solver: follow the steps in https://wihoho.github.io/2013/08/18/EMD-Python.html
