@@ -26,4 +26,5 @@ data folder:
 
     types.csv: roles with start id, end id and node type in each row. It is not used for the block prior [optional]
 
-for emd solver: follow the steps in https://wihoho.github.io/2013/08/18/EMD-Python.html
+For emd solver install GLPK and Pulp (or follow the steps in https://wihoho.github.io/2013/08/18/EMD-Python.html)
+
