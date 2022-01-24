@@ -3,7 +3,8 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 This repository contains the source code, installation and use instructions for the method presented in the paper: 
-*Quantifying and Reducing Imbalance in Networks*.
+
+*Mashayekhi, Yoosof, Bo Kang, Jefrey Lijffijt, and Tijl De Bie. "Quantifying and reducing imbalance in networks." In RECSYS IN HR 2021, vol. 2967. CEUR, 2021*.
 
 We provide Python implementations of the complete GraB model. The repository is maintained by Yoosof Mashayekhi (yoosof.mashayekhi(at)ugent.be).
 
